@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I'm a crypto trader 🤣**
 
-- 📌 [https://khaledxab.me/](https://khaledxab.me/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
