@@ -1,39 +1,94 @@
-<h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">A passionate developer from Tunisia</h3>
+<div align="center">
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledxab" alt="khaledxab" /></a> </p> -->
+# Hey there, I'm Khaled 👋
 
-<p align="left"> <a href="https://twitter.com/_xkhaaledx_" target="blank"><img src="https://img.shields.io/twitter/follow/_xkhaaledx_?logo=twitter&style=for-the-badge" alt="_xkhaaledx_" /></a> </p>
+### Full-Stack Developer · Mobile Enthusiast · Crypto Trader 🇹🇳
 
-- 🌱 I’m currently learning **everything 😂**
+[![Website](https://img.shields.io/badge/Website-khaledxab.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://khaledxab.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-khaledxab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaledxab)
+[![Twitter](https://img.shields.io/badge/Twitter-_xkhaaledx_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_xkhaaledx_)
+[![Medium](https://img.shields.io/badge/Medium-@khaledxab-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@khaledxab)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Khaledxab/](https://github.com/Khaledxab/)
+</div>
 
-- 📝 I regularly write articles on [https://medium.com/@khaledxab](https://medium.com/@khaledxab)
+---
 
-- 💬 Ask me about **What you want ! 😁**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **khaledxab@gmail.com**
+I'm a passionate **Full-Stack Developer** from **Ariana, Tunisia** with 4+ years of experience building mobile and web applications that solve real-world problems — from agriculture to healthcare, legal platforms, and beyond.
 
-- ⚡ Fun fact **I'm a crypto trader 🤣**
+- 🌾 Currently building a **Flutter-based agricultural advisory app** at [Ifarming](https://ifarming.com)
+- 🔐 Diving deep into **cybersecurity** and pen-testing lab environments
+- 📈 Crypto trader with a love for **technical analysis** and market dynamics
+- 🌍 Open to **remote opportunities** in Europe (Dublin, Paris, London, Warsaw)
+- 📝 I write about development on [Medium](https://medium.com/@khaledxab)
+- 🌐 Check out my portfolio at **[khaledxab.com](https://khaledxab.com)**
+- 📬 Reach me at **khaledxab@gmail.com**
 
+---
 
+## 🚀 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_xkhaaledx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_xkhaaledx_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khaledxab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaledxab" height="30" width="40" /></a>
-<a href="https://fb.com/pr00typ3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pr00typ3r" height="30" width="40" /></a>
-<a href="https://instagram.com/khaledxab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khaledxab" height="30" width="40" /></a>
-<a href="https://medium.com/@khaledxab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khaledxab" height="30" width="40" /></a>
-<a href="https://discord.gg/RyN66TMe4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RyN66TMe4" height="30" width="40" /></a>
-</p>
+### Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+### Backend & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledxab&show_icons=true&locale=en&layout=compact" alt="khaledxab" /></p>
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaledxab&show_icons=true&locale=en" alt="khaledxab" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaledxab&" alt="khaledxab" /></p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khaledxab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledxab&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khaledxab&theme=tokyonight)](https://github.com/khaledxab)
+
+</div>
+
+---
+
+## 🏗️ Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🌾 **Ifarming App** | Agricultural advisory mobile app | Flutter, Firebase |
+| 🏥 **Medify** | Healthcare management platform | Flutter, Django |
+| ⚖️ **Legalease** | Legal services platform | Flutter, Node.js |
+| 🔐 **CyberLab** | Docker-based pen-testing lab environment | Docker, Linux |
+
+---
+
+<div align="center">
+
+### 💬 Let's connect!
+
+*"Building things that matter, one commit at a time."*
+
+[![Website](https://img.shields.io/badge/khaledxab.com-Visit_Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://khaledxab.com)
+
+</div>
