@@ -27,7 +27,8 @@ Native Arabic, fluent English and French, so building RTL and multilingual produ
 
 - 🏢 **Co-Founder & CTO @ Dar Dev** (2023 – present): architecture, stack, code review and infrastructure for all of the company's products
 - 🌾 **Freelance**: Ifarming (Flutter AgriTech app, App Store) · Minduos (Python microservices, CI/CD, 99.5%+ uptime)
-- 🎓 Software Engineering Program, **Holberton School** Tunis · Anthropic Academy certifications in MCP (2026)
+- 🎓 Software Engineering Program, **Holberton School** Tunis (2020 – 2022)
+- 📜 **Anthropic Academy certifications (2026):** AI Fluency: Framework & Foundations · Model Context Protocol · MCP: Advanced Topics · Claude on Google Cloud · Claude with Amazon Bedrock
 
 ---
 
