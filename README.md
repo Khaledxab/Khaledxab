@@ -2,7 +2,7 @@
 
 # Hey, I'm Khaled Ben Abderrahmen 👋
 
-<a href="https://khaledxab.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=1F5FAF&center=true&vCenter=true&width=640&lines=Senior+Full-Stack+Engineer;Co-Founder+%26+CTO+%40+Dar+Dev;Next.js+%C2%B7+NestJS+%C2%B7+Python+%C2%B7+Flutter;Open+to+remote+roles+and+freelance+missions" alt="Senior Full-Stack Engineer · Co-Founder & CTO @ Dar Dev" /></a>
+<a href="https://khaledxab.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=1F5FAF&center=true&vCenter=true&width=640&lines=Senior+Full-Stack+Developer;Co-Founder+%26+CTO+%40+Dar+Dev;Next.js+%C2%B7+NestJS+%C2%B7+Python+%C2%B7+Flutter;Open+to+remote+roles+and+freelance+missions" alt="Senior Full-Stack Developer · Co-Founder & CTO @ Dar Dev" /></a>
 
 📍 Tunis, Tunisia 🇹🇳 · UTC+1, European working hours · **Open to remote roles and freelance missions**
 
