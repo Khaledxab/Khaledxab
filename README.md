@@ -25,9 +25,9 @@ Give me a whole feature or product and I'll own it end to end, from design to pr
 NestJS apps in TypeScript, Python services and Flutter apps, and I run my own Docker, Nginx and CI/CD infrastructure.
 Native Arabic, fluent English and French, so building RTL and multilingual products comes naturally.
 
-- 🏢 **Co-Founder & CTO @ Dar Dev** (2023 – present): architecture, stack, code review and infrastructure for all of the company's products
+- 🏢 **Co-Founder & CTO @ Dar Dev** (2023 - present): architecture, stack, code review and infrastructure for all of the company's products
 - 🌾 **Freelance**: Ifarming (Flutter AgriTech app, App Store) · Minduos (Python microservices, CI/CD, 99.5%+ uptime)
-- 🎓 Software Engineering Program, **Holberton School** Tunis (2020 – 2022)
+- 🎓 Software Engineering Program, **Holberton School** Tunis (2020 - 2022)
 - 📜 **Anthropic Academy certifications (2026):** AI Fluency: Framework & Foundations · Model Context Protocol · MCP: Advanced Topics · Claude on Google Cloud · Claude with Amazon Bedrock
 
 ---
@@ -37,7 +37,7 @@ Native Arabic, fluent English and French, so building RTL and multilingual produ
 > 🔒 Most of my best work lives in **private repositories** (company and client code).
 > I'm happy to walk through the architecture and code of any of these in a call: just [email me](mailto:khaled@khaledxab.com).
 
-### 🌟 [Hesabi](https://hesabi.tn) — multi-tenant ERP SaaS · *live*
+### 🌟 [Hesabi](https://hesabi.tn) · multi-tenant ERP SaaS · *live*
 ERP for Tunisian businesses and accounting firms: invoicing, POS, stock, purchasing, payroll and accounting, plus an
 accountant portal managing many client companies. Installable PWA, desktop client, full Arabic/French/English RTL.
 `Next.js 16` `TypeScript` `PostgreSQL 16` `Prisma` `Docker` `PWA`
@@ -85,7 +85,7 @@ Built around it:
 | **Security** | JWT, RBAC, multi-tenant isolation, mTLS, Kong API gateway, XDR endpoint agents, on-premise hardening |
 | **AI** | LLM tool calling and orchestration, agents, human-in-the-loop workflows, MCP, vision and OCR document extraction |
 
-<p align="center">🇹🇳 Arabic — Native &nbsp;·&nbsp; 🇬🇧 English — Fluent &nbsp;·&nbsp; 🇫🇷 French — Professional</p>
+<p align="center">🇹🇳 Arabic · Native &nbsp;·&nbsp; 🇬🇧 English · Fluent &nbsp;·&nbsp; 🇫🇷 French · Professional</p>
 
 ---
 
