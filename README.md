@@ -60,6 +60,7 @@ Built around it:
 | 📄 **Smart Import** | Rule-based extraction engine (no LLM): PDFs (digital and scanned), images, Excel, CSV and XML to clean JSON, with document-type and language detection (FR/AR/EN) | Python · FastAPI · OCR |
 | 🧠 **kh.ai** | Terminal tool that routes tasks across several LLM providers and local models, with multi-step pipelines, side-by-side comparison and persistent memory | TypeScript · Bun |
 | 🖨️ **Entete Studio** | Visual A4 letterhead and document-template builder with presets, token fields and PDF export, in AR/FR/EN | Next.js · pdfme · Prisma |
+| 📡 **[sitewatch](https://github.com/Khaledxab/sitewatch)** | Open source website monitor: probes sites and exports uptime, latency and TLS certificate expiry to Prometheus. Single static binary, Helm chart and Grafana dashboard included | Go · Docker · Kubernetes · Prometheus · Grafana |
 | 🏫 **TunisiaEdu** | White-label multi-tenant school platform: timetables, grades, attendance, finance | Next.js · NestJS · PostgreSQL · Redis · MinIO |
 | 📱 **Mobile** | Legalease, Medify, Cleanch, Ifarming: Flutter apps with clean architecture and offline support | Flutter · Dart |
 
