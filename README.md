@@ -2,7 +2,7 @@
 
 # Hey, I'm Khaled Ben Abderrahmen 👋
 
-<a href="https://khaledxab.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=1F5FAF&center=true&vCenter=true&width=640&lines=Senior+Full-Stack+Developer;Co-Founder+%26+CTO+%40+Dar+Dev;Next.js+%C2%B7+NestJS+%C2%B7+Python+%C2%B7+Flutter;Open+to+remote+roles+and+freelance+missions" alt="Senior Full-Stack Developer · Co-Founder & CTO @ Dar Dev" /></a>
+<a href="https://khaledxab.com"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=1F5FAF&center=true&vCenter=true&width=640&lines=Senior+Full-Stack+Developer;Co-Founder+%26+CTO+%40+Dar+Dev;Next.js+%C2%B7+NestJS+%C2%B7+Go+%C2%B7+Python+%C2%B7+Flutter;Open+to+remote+roles+and+freelance+missions" alt="Senior Full-Stack Developer · Co-Founder & CTO @ Dar Dev" /></a>
 
 📍 Tunis, Tunisia 🇹🇳 · UTC+1, European working hours · **Open to remote roles and freelance missions**
 
@@ -22,7 +22,8 @@ In 5+ years I've shipped a live ERP with AI features, a 15-service compliance pl
 and App Store mobile apps.
 
 Give me a whole feature or product and I'll own it end to end, from design to production. I build Next.js and
-NestJS apps in TypeScript, Python services and Flutter apps, and I run my own Docker, Nginx and CI/CD infrastructure.
+NestJS apps in TypeScript, backend services and command-line tools in Go, Python services and Flutter apps, and I run
+production infrastructure end to end: Docker and Kubernetes, Terraform, monitoring and zero-downtime deploys.
 Native Arabic, fluent English and French, so building RTL and multilingual products comes naturally.
 
 - 🏢 **Co-Founder & CTO @ Dar Dev** (2023 - present): architecture, stack, code review and infrastructure for all of the company's products
@@ -47,7 +48,7 @@ Built around it:
 |---|---|---|
 | **AI assistant** | A chat assistant that looks up and acts on business data through tool calls, with streamed replies and a full audit log. It reaches data only through Hesabi's authenticated internal API, never the main database. | TypeScript · Node · PostgreSQL · Docker |
 | **AI document import** | Reads invoices, purchase orders and bank statements (PDF or image) with a vision model and returns validated JSON. A validation layer cross-checks Tunisian tax rules and line totals. Includes a review dashboard. | Python · FastAPI · pytest · Docker |
-| **Operations agent (Discord)** | Internal multi-agent bot: sign-up alerts, customer lookup, and human-in-the-loop email drafting (the model drafts, a person confirms). Each conversation runs in its own thread and expires automatically. | TypeScript · Cloudflare Workers |
+| **Operations agent (Discord)** | Internal multi-agent bot: sign-up alerts, customer lookup, and human-in-the-loop email drafting (the model drafts, a person confirms). Each conversation runs in its own thread and expires automatically. | TypeScript · Cloudflare Workers, Queues, Workflows, Workers AI |
 | **Connect** | The system that sends all of hesabi.tn's email: scheduled and bulk sends, delivery tracking via webhooks, live client sync. | Python · FastAPI · Resend |
 
 ### More projects
@@ -71,17 +72,18 @@ Built around it:
 ## 🚀 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,nestjs,python,fastapi,django,flutter,dart&perline=10" alt="Languages and frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,mongodb,mysql,firebase,docker,nginx,githubactions,linux&perline=10" alt="Data and infrastructure" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,go,nodejs,nestjs,python,fastapi,django,flutter,dart&perline=11" alt="Languages and frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,kafka,mongodb,mysql,docker,kubernetes,terraform,aws,cloudflare,prometheus,grafana,sentry,nginx,githubactions,linux&perline=10" alt="Data and infrastructure" />
 </p>
 
 | | |
 |---|---|
 | **Front-end** | Next.js 15/16, React 19, TypeScript, Tailwind CSS, TanStack Query, Zustand, PWA, RTL & i18n |
-| **Back-end** | NestJS, Node.js, Express, Python, FastAPI, Django REST, REST APIs, WebSockets, microservices |
+| **Back-end** | Go, NestJS, Node.js, Express, Python, FastAPI, Django REST, REST APIs, WebSockets, microservices |
 | **Mobile** | Flutter, Dart, offline-first, push notifications |
-| **Data** | PostgreSQL, Prisma, Redis, MongoDB, MySQL, Firebase |
-| **DevOps** | Docker, Docker Compose, Nginx, GitHub Actions, Linux, SSL/TLS, MinIO, monitoring |
+| **Data** | PostgreSQL (replication, backups), Prisma, Redis (clustering), Kafka, MongoDB, MySQL, Firebase |
+| **DevOps** | Docker, Kubernetes (k3s, EKS), Terraform, Docker Compose, Nginx, load balancing, GitHub Actions, Linux, SSL/TLS, zero-downtime deploys |
+| **Cloud / Ops** | AWS (storage, queues), Cloudflare (Workers, Queues, Workflows, Workers AI), MinIO, Prometheus, Grafana, Sentry |
 | **Security** | JWT, RBAC, multi-tenant isolation, mTLS, Kong API gateway, XDR endpoint agents, on-premise hardening |
 | **AI** | LLM tool calling and orchestration, agents, human-in-the-loop workflows, MCP, vision and OCR document extraction |
 
