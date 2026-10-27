@@ -7,7 +7,7 @@
 📍 Tunis, Tunisia 🇹🇳 · UTC+1, European working hours · **Open to remote roles and freelance missions**
 
 [![Website](https://img.shields.io/badge/🌐_khaledxab.com-000000?style=for-the-badge)](https://khaledxab.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-khaledxab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaledxab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaled_Ben_Abderrahmen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-ben-abderrahmen-a85766420)
 [![Medium](https://img.shields.io/badge/Medium-@khaledxab-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@khaledxab)
 [![Email](https://img.shields.io/badge/Email-khaled@khaledxab.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaled@khaledxab.com)
 
